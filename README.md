@@ -3,6 +3,8 @@
 ## Purpose
 A website that offers services to help companies get more online traffic, customers, and clients.
 
+![screenshot](./assets/images/screenshot.jpg)
+
 ## Built with
 * HTML
 * CSS
